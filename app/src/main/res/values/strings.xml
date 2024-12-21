@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Color App</string>
+    <string name="color_app">Color App</string>
+    <string name="add_color">Add Color</string>
+    <string name="no_data_available">No data available</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="created_at">Created at\n%s</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020802416153",
+    "project_id": "colorapp-d92f0",
+    "storage_bucket": "colorapp-d92f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020802416153:android:6e4eb6ca18f8c04865b488",
+        "android_client_info": {
+          "package_name": "com.samridhi.colorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35gjBODuGiZViiyqVClsj2U2O1qqXzz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
